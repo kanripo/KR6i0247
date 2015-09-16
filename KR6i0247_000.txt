@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說內身觀章句經
+#+DATE: 2015-08-30 20:13:56.351734
+#+PROPERTY: JUAN 0
