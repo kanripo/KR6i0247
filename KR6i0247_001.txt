@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:56.169396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:02
 #+TITLE: 佛說內身觀章句經
 #+PROPERTY: CBETA_ID T15n0610
 #+PROPERTY: ID KR6i0247
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 610
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0247_T_000-0239a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0247_T_001-0239a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.610¶
-
- 《佛說內身觀章句經》¶
+No. 610¶
+《佛說內身觀章句經》¶
 ¶
 失譯人名在後漢錄¶
 
@@ -137,7 +136,7 @@ No.610¶
 　如束葦無彊，
 　脊膂三十二，¶
 　尻與腰為三，
-　若其斯左脾，¶
+　若其斯左髀，¶
 　骨為二十五；
 　右髀為亦然，¶
 　為骨二十五；
@@ -162,7 +161,7 @@ No.610¶
 　九孔為大瘡，
 　周匝為滲漏，¶
 　不淨腐臭處，
-　口啄如為孔，¶
+　口喙如為孔，¶
 　滿之以諸穀，
 　是身為若此。¶
 　以進若干腑，
@@ -234,15 +233,12 @@ No.610¶
 　要以為諸苦，¶
 　腐身為不實，
 　多因緣以成，¶
-　大耶以為軀。
+　大耶以為軀。」
 #+END_VERSE
-」¶
+¶
 《佛說內身觀章句經》¶
 
-:PROPERTIES:
-:head: 十一因緣章
-:END:
-¶
+* 十一因緣章¶
 
 佛言：「行者有十一因緣，滅道制令人不¶
 墮惡道，當不識者，謂萬物。一為大會，謂¶
